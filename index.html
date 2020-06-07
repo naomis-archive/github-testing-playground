@@ -3,8 +3,46 @@
   <head>
     <meta charset="utf-8" />
     <title></title>
+    <style> 
+body{
+  padding:0;margin:0;
+  background-color:black;
+}
+canvas{
+  width:100vw;
+  height:100vh;
+  border:solid 0.5px black;
+}
+    </style>
   </head>
   <body>
-    <p>Blah blah blah?</p>
+        <canvas id="myCanvas" ></canvas>
+               
+    <script src='scr.js'></script>
+
   </body>
 </html>
+<!-- var arr=['#752c77',
+'#dea4d2',
+'#b962bd',
+'#250420',
+'#c73bbe'];
+var canvas =  document.getElementById('myCanvas')
+   
+      var context = canvas.getContext('2d');
+
+      var radius = 15;
+function randomNrBetween(min, max) {
+  return Math.floor(Math.random() * (max - min + 1) + min);
+}
+var width = ['20vw','40vw','60vw','80vw','100vw'];
+var height = ['55vh','45vh','55vh','45vh','55vh'];
+function draw(){
+for(let i = 0;i<=5;i++){
+context.beginPath();
+context.arc(x,y,5, 0, 2 * Math.PI, false);
+context.fillStyle = arr[i];
+context.fill();console.log('s')
+
+}}
+draw(); -->
