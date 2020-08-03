@@ -2,9 +2,11 @@
 
 ## Description:
 
+<!--Describe what your pull request adds/changes-->
+
 ## Requirements:
 
-<!-- Ensure you have completed the steps in this checklist, and put an x in each of the boxes: [x]. Failure to do so will delay the review of your pull request.-->
+<!-- Make sure you can mark off each of these items. To make one marked off, replace the space between the [] brackets with an X: [X]-->
 
 - [ ] I have read the repository readme.
 - [ ] My pull request has a descriptive title.
@@ -13,6 +15,6 @@
 
 ## Related Issue:
 
-<!--Is this related to an issue? Does it close one? If so, replace the XXXXX below with the issue number.-->
+<!--Remember that issue you created earlier? Replace the XXXXX with the number for that issue.-->
 
 Closes #XXXXX
