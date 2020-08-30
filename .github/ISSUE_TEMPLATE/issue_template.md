@@ -2,8 +2,9 @@
 name: Issue Template
 about: Select this if you are creating an issue from following along with the tutorial.
 title: "[TUTORIAL]"
-labels: tutorial
-assignees: "nhcarrigan"
+labels: ''
+assignees: nhcarrigan
+
 ---
 
 # Tutorial Issue
