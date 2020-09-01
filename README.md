@@ -9,3 +9,7 @@ Please note: IF your pull request contains malicious code or harassment, I will 
 ## Live Version
 
 This repository is currently not deployed.
+
+## Hacktoberfest 2020
+
+Please note that if you are participating in [Hacktoberfest](https://hacktoberfest.digitalocean.com/) this year, submissions to this repository **will not** count toward your progress.
