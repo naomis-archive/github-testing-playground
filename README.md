@@ -13,9 +13,22 @@ Please note: IF your pull request contains malicious code or harassment, I will 
 
 This repository is currently not deployed.
 
+## Feedback and Bugs
+
+If you have feedback or a bug report, please feel free to open a GitHub issue!
+
+## Contributing
+
+If you would like to contribute to the project, you may create a Pull Request containing your proposed changes and we will review it as soon as we are able! Please review our [contributing guidelines](CONTRIBUTING.md) first.
+
+## Code of Conduct
+
+Before interacting with our community, please read our [Code of Conduct](CODE_OF_CONDUCT.md).
+
 ## Hacktoberfest 2020
 
 Please note that if you are participating in [Hacktoberfest](https://hacktoberfest.digitalocean.com/) this year, submissions to this repository **will not** count toward your progress.
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
