@@ -25,9 +25,9 @@ If you would like to contribute to the project, you may create a Pull Request co
 
 Before interacting with our community, please read our [Code of Conduct](CODE_OF_CONDUCT.md).
 
-## Hacktoberfest 2020
+## Questions
 
-Please note that if you are participating in [Hacktoberfest](https://hacktoberfest.digitalocean.com/) this year, submissions to this repository **will not** count toward your progress.
+If you have questions regarding contributing, using the project, or any related topic, you can reach us at our [Discord Server](https://discord.gg/yMBWgETTJu) where we would be happy to help!
 
 ## Contributors ✨
 
