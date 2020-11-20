@@ -11,7 +11,7 @@ Please note: IF your pull request contains malicious code or harassment, I will 
 
 ## Live Version
 
-This repository is currently not deployed.
+This page is currently deployed. [View the live website](https://blog.nhcarrigan.com/git-and-github-ckdduz18c01a8yss1fg5dd7fg).
 
 ## Feedback and Bugs
 
